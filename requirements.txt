@@ -1,0 +1,3 @@
+Pillow==5.0.0
+pypiwin32==219
+pytesseract==0.1.7
